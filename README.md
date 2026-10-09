@@ -17,7 +17,7 @@
 
 ---
 
-### 👨‍💻 Về mình
+### 👨‍💻 For me
 
 - 🎓 Sinh viên chuyên ngành An toàn thông tin.
 - 🚩 Chinh chiến thường xuyên tại các giải CTF với thế mạnh về **Web Exploitation**.
@@ -27,7 +27,7 @@
 
 ---
 
-### 🛠️ Vũ khí & Công cụ
+### 🛠️ Tools
 
 <div align="center">
   <!-- Các icon kỹ năng cơ bản -->
@@ -49,7 +49,7 @@
 
 ---
 
-### 📬 Liên hệ với mình
+### 📬 Contact
 
 <div align="center">
   <a href="mailto:tekachi0101@gmail.com">
