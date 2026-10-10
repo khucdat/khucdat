@@ -2,12 +2,12 @@
   
   <!-- Hiệu ứng gõ phím cho tiêu đề với font Fira Code, màu Đỏ Cam Red Team -->
   <a href="https://github.com/Khucdat">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=720&size=40&pause=1000&color=F24E1E&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+KhucDat+👋;Penetration+Testing+Web+%7C+Red+Team;Cybersecurity+Enthusiast+%7C+CTF+Player;Rooting+boxes+and+hunting+bugs..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=720&size=35&pause=1000&color=F24E1E&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+KhucDat+👋;Penetration+Testing+Web+%7C+Red+Team;Cybersecurity+Enthusiast+%7C+CTF+Player;Rooting+boxes+and+hunting+bugs..." alt="Typing SVG" />
   </a>
 
   <!-- Meme Mèo Hacker -->
   <br/>
-  <img width="720" height="600" alt="Nina Subaru GIF" src="https://github.com/user-attachments/assets/2fc3b623-7c4b-4f22-bf6d-9fd26d709497" />
+  <img width="650" height="600" alt="Nina Subaru GIF" src="https://github.com/user-attachments/assets/2fc3b623-7c4b-4f22-bf6d-9fd26d709497" />
   <br/>
   
   <p align="center">
