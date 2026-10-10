@@ -7,7 +7,7 @@
 
   <!-- Meme Mèo Hacker -->
   <br/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3A5ZXA1a2x5bTN6M2V4Z3V5ZGV6ZGV6ZGV6ZGV6ZGV6ZGV6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" alt="Hacker Cat Meme"/>
+  <img width="1280" height="720" alt="Nina Subaru GIF" src="https://github.com/user-attachments/assets/2fc3b623-7c4b-4f22-bf6d-9fd26d709497" />
   <br/>
   
   <p align="center">
